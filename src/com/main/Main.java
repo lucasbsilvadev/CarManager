@@ -17,7 +17,7 @@ public class Main {
         Carro carro1 = new Carro("Civic", "Honda", 184, 120000);
         Carro carro2 = new Carro("Fusca", "Volkswagen", 60, 20000);
 
-        // Exibindo informações
+        // exibindo informações
         
         System.out.println(pessoaFisica);
         System.out.println(pessoaJuridica);
